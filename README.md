@@ -107,7 +107,6 @@ I have a bachelor's degree in **Computer Science**.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenikeda1209)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yongyuanhetazaiyiqi@gmail.com)
 
 </p>
